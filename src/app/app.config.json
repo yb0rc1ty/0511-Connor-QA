@@ -2,6 +2,6 @@
   "appname": "0511 Connor QA",
   "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
   "clientid": "9C0CDB70-CA72-46B9-AE4C-840662AAB6B5",
-  "buyerid": null,
+  "buyerid": "Connor-Buyer-New",
   "environment": "qa"
 }
